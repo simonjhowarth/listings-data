@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-24T01:51:16.880217",
+  "last_updated": "2026-08-24T13:08:08.222855",
   "location": "Cambridge, UK",
   "cinemas": [
     {
@@ -13,9 +13,6 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
-            "10:00",
-            "11:00",
-            "13:10",
             "14:10",
             "16:20",
             "17:20",
@@ -31,8 +28,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:30",
             "17:00",
             "19:40",
             "20:30"
@@ -71,8 +66,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:50",
-            "13:15"
+            "10:10",
+            "12:30",
+            "17:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -95,7 +91,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:45"
           ],
@@ -120,8 +115,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:15",
-            "12:45"
+            "10:20",
+            "13:30"
           ],
           "format": "Standard",
           "day": "today",
@@ -132,8 +127,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:45",
             "15:00"
           ],
           "format": "Standard",
@@ -145,8 +138,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:20",
-            "13:30"
+            "11:15"
           ],
           "format": "Standard",
           "day": "today",
@@ -157,7 +149,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:10"
+            "10:50"
           ],
           "format": "Standard",
           "day": "today",
@@ -379,8 +371,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:30",
             "17:00",
             "19:40",
             "20:30"
@@ -419,8 +409,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:50",
-            "13:15"
+            "10:10",
+            "12:30",
+            "17:00"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -443,7 +434,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:45"
           ],
@@ -468,8 +458,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:15",
-            "12:45"
+            "10:20",
+            "13:30"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -480,8 +470,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:45",
             "15:00"
           ],
           "format": "Standard",
@@ -493,8 +481,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:20",
-            "13:30"
+            "11:15"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -505,7 +492,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:10"
+            "10:50"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -727,8 +714,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:30",
             "17:00",
             "19:40",
             "20:30"
@@ -767,8 +752,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:50",
-            "13:15"
+            "10:10",
+            "12:30",
+            "17:00"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -791,7 +777,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:45"
           ],
@@ -816,8 +801,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:15",
-            "12:45"
+            "10:20",
+            "13:30"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -828,8 +813,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:45",
             "15:00"
           ],
           "format": "Standard",
@@ -841,8 +824,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:20",
-            "13:30"
+            "11:15"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -853,7 +835,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:10"
+            "10:50"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -1075,8 +1057,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:30",
             "17:00",
             "19:40",
             "20:30"
@@ -1115,8 +1095,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:50",
-            "13:15"
+            "10:10",
+            "12:30",
+            "17:00"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -1139,7 +1120,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:45"
           ],
@@ -1164,8 +1144,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:15",
-            "12:45"
+            "10:20",
+            "13:30"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -1176,8 +1156,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:45",
             "15:00"
           ],
           "format": "Standard",
@@ -1189,8 +1167,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:20",
-            "13:30"
+            "11:15"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -1201,7 +1178,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:10"
+            "10:50"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -1431,8 +1408,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10.00",
-            "13.30",
             "17.00",
             "20.30"
           ],
@@ -1632,7 +1607,708 @@
       "name": "Everyman Cambridge",
       "is_imax": false,
       "address": "Unit 42, Grand Arcade, Cambridge, CB2 3BJ",
-      "films": []
+      "films": [
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "20:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "11:30",
+            "16:45"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "20:30"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:30"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "11:30",
+            "16:45"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "20:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "11:30",
+            "16:45"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "20:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "11:30",
+            "16:45"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "20:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "11:30",
+            "16:45"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "20:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "11:30",
+            "16:45"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "20:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "11:30",
+            "16:45"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        }
+      ]
     },
     {
       "name": "Arts Picturehouse Cambridge",
@@ -1645,7 +2321,6 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "12:15",
             "17:40"
           ],
           "day": "today",
@@ -1688,7 +2363,6 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "12:00",
             "19:30"
           ],
           "day": "today",
@@ -1709,7 +2383,6 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "12:00",
             "18:00"
           ],
           "day": "today",
@@ -1964,7 +2637,7 @@
           "duration": "",
           "showtimes": [
             "11:00",
-            "18:00"
+            "18:10"
           ],
           "day": "friday",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
