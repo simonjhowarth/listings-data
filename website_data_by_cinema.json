@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-25T01:45:43.595759",
+  "last_updated": "2026-08-25T13:04:20.153639",
   "location": "Cambridge, UK",
   "cinemas": [
     {
@@ -13,9 +13,6 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
-            "10:00",
-            "11:00",
-            "13:10",
             "14:15",
             "16:15",
             "17:30",
@@ -31,7 +28,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:40",
             "14:20",
             "20:30"
           ],
@@ -56,7 +52,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
             "18:15"
           ],
           "format": "Standard",
@@ -68,8 +63,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:10",
-            "12:30",
             "17:00"
           ],
           "format": "Standard",
@@ -81,7 +74,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:40"
           ],
@@ -119,8 +111,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:40",
             "14:50"
           ],
           "format": "Standard",
@@ -132,7 +122,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:15"
+            "11:45"
           ],
           "format": "Standard",
           "day": "today",
@@ -143,8 +133,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:20",
-            "13:30"
+            "10:30",
+            "14:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -166,18 +156,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:50"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pinkfong Super Rescue 2",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
+            "10:40"
           ],
           "format": "Standard",
           "day": "today",
@@ -334,6 +313,17 @@
           "duration": "2h 12m",
           "showtimes": [
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -422,7 +412,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:40",
             "14:20",
             "20:30"
           ],
@@ -447,7 +436,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
             "18:15"
           ],
           "format": "Standard",
@@ -459,8 +447,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:10",
-            "12:30",
             "17:00"
           ],
           "format": "Standard",
@@ -472,7 +458,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:40"
           ],
@@ -510,8 +495,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:40",
             "14:50"
           ],
           "format": "Standard",
@@ -523,7 +506,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:15"
+            "11:45"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -534,8 +517,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:20",
-            "13:30"
+            "10:30",
+            "14:00"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -557,18 +540,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:50"
-          ],
-          "format": "Standard",
-          "day": "wednesday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pinkfong Super Rescue 2",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
+            "10:40"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -725,6 +697,17 @@
           "duration": "2h 12m",
           "showtimes": [
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -813,7 +796,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:40",
             "14:20",
             "20:30"
           ],
@@ -838,7 +820,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
             "18:15"
           ],
           "format": "Standard",
@@ -850,8 +831,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:10",
-            "12:30",
             "17:00"
           ],
           "format": "Standard",
@@ -863,7 +842,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:40"
           ],
@@ -901,8 +879,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:40",
             "14:50"
           ],
           "format": "Standard",
@@ -914,7 +890,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:15"
+            "11:45"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -925,8 +901,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:20",
-            "13:30"
+            "10:30",
+            "14:00"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -948,18 +924,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:50"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pinkfong Super Rescue 2",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
+            "10:40"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -1116,6 +1081,17 @@
           "duration": "2h 12m",
           "showtimes": [
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "thursday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -1204,7 +1180,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:40",
             "14:20",
             "20:30"
           ],
@@ -1229,7 +1204,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
             "18:15"
           ],
           "format": "Standard",
@@ -1241,8 +1215,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:10",
-            "12:30",
             "17:00"
           ],
           "format": "Standard",
@@ -1254,7 +1226,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:40"
           ],
@@ -1292,8 +1263,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:40",
             "14:50"
           ],
           "format": "Standard",
@@ -1305,7 +1274,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:15"
+            "11:45"
           ],
           "format": "Standard",
           "day": "friday",
@@ -1316,8 +1285,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:20",
-            "13:30"
+            "10:30",
+            "14:00"
           ],
           "format": "Standard",
           "day": "friday",
@@ -1339,18 +1308,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:50"
-          ],
-          "format": "Standard",
-          "day": "friday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pinkfong Super Rescue 2",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
+            "10:40"
           ],
           "format": "Standard",
           "day": "friday",
@@ -1507,6 +1465,17 @@
           "duration": "2h 12m",
           "showtimes": [
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "friday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
           ],
           "format": "Standard",
           "day": "friday",
@@ -1595,7 +1564,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:40",
             "14:20",
             "20:30"
           ],
@@ -1620,7 +1588,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
             "18:15"
           ],
           "format": "Standard",
@@ -1632,8 +1599,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:10",
-            "12:30",
             "17:00"
           ],
           "format": "Standard",
@@ -1645,7 +1610,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:40"
           ],
@@ -1683,8 +1647,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:40",
             "14:50"
           ],
           "format": "Standard",
@@ -1696,7 +1658,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:15"
+            "11:45"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1707,8 +1669,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:20",
-            "13:30"
+            "10:30",
+            "14:00"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1730,18 +1692,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:50"
-          ],
-          "format": "Standard",
-          "day": "saturday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pinkfong Super Rescue 2",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
+            "10:40"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1898,6 +1849,17 @@
           "duration": "2h 12m",
           "showtimes": [
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "saturday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1986,7 +1948,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:40",
             "14:20",
             "20:30"
           ],
@@ -2011,7 +1972,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
             "18:15"
           ],
           "format": "Standard",
@@ -2023,8 +1983,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:10",
-            "12:30",
             "17:00"
           ],
           "format": "Standard",
@@ -2036,7 +1994,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:40"
           ],
@@ -2074,8 +2031,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:40",
             "14:50"
           ],
           "format": "Standard",
@@ -2087,7 +2042,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:15"
+            "11:45"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -2098,8 +2053,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:20",
-            "13:30"
+            "10:30",
+            "14:00"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -2121,18 +2076,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:50"
-          ],
-          "format": "Standard",
-          "day": "sunday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pinkfong Super Rescue 2",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
+            "10:40"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -2289,6 +2233,17 @@
           "duration": "2h 12m",
           "showtimes": [
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "sunday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -2377,7 +2332,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:40",
             "14:20",
             "20:30"
           ],
@@ -2402,7 +2356,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
             "18:15"
           ],
           "format": "Standard",
@@ -2414,8 +2367,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:10",
-            "12:30",
             "17:00"
           ],
           "format": "Standard",
@@ -2427,7 +2378,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:00",
             "15:20",
             "17:40"
           ],
@@ -2465,8 +2415,6 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:50",
-            "12:40",
             "14:50"
           ],
           "format": "Standard",
@@ -2478,7 +2426,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "11:15"
+            "11:45"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2489,8 +2437,8 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "10:20",
-            "13:30"
+            "10:30",
+            "14:00"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2512,18 +2460,7 @@
           "rating": "PG",
           "duration": "1h 55m",
           "showtimes": [
-            "10:50"
-          ],
-          "format": "Standard",
-          "day": "monday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pinkfong Super Rescue 2",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
+            "10:40"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2680,6 +2617,17 @@
           "duration": "2h 12m",
           "showtimes": [
             "19:30"
+          ],
+          "format": "Standard",
+          "day": "monday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2776,7 +2724,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10.40",
             "14.20",
             "20.30"
           ],
@@ -2998,6 +2945,19 @@
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
+          "title": "Avengers: Endgame Encore",
+          "rating": "12A",
+          "duration": "3h 5m",
+          "showtimes": [
+            "15.30",
+            "18.15",
+            "20.00"
+          ],
+          "format": "Standard",
+          "day": "future",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
           "title": "Queen Budapest",
           "rating": "Unknown",
           "duration": "1h 37m",
@@ -3014,7 +2974,638 @@
       "name": "Everyman Cambridge",
       "is_imax": false,
       "address": "Unit 42, Grand Arcade, Cambridge, CB2 3BJ",
-      "films": []
+      "films": [
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "19:00"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "20:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "12:15",
+            "16:45"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "19:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "20:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "12:15",
+            "16:45"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "19:00"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "20:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "12:15",
+            "16:45"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "thursday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "19:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "20:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "12:15",
+            "16:45"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "19:00"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "20:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "12:15",
+            "16:45"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "saturday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "19:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "20:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "12:15",
+            "16:45"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "13:30",
+            "19:00"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "14:45",
+            "21:00"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "12:00",
+            "14:00",
+            "17:15",
+            "20:00"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "20:30"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "13:00",
+            "15:15",
+            "19:30"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "12:15",
+            "16:45"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:30",
+            "21:30"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        }
+      ]
     },
     {
       "name": "Arts Picturehouse Cambridge",
@@ -3028,16 +3619,6 @@
           "duration": "",
           "showtimes": [
             "20:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Lady",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "12:00"
           ],
           "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
@@ -3079,18 +3660,7 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "11:30",
             "19:40"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "The Summer Book",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "12:00"
           ],
           "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
