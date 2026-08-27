@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-26T13:09:50.473605",
+  "last_updated": "2026-08-27T08:54:48.619442",
   "location": "Cambridge, UK",
   "cinemas": [
     {
@@ -13,8 +13,9 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "17:10",
-            "20:00"
+            "13:00",
+            "17:00",
+            "20:10"
           ],
           "format": "Standard",
           "day": "today",
@@ -25,10 +26,12 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
+            "11:00",
             "14:10",
-            "16:30",
+            "16:20",
             "17:20",
-            "19:40",
+            "19:30",
             "20:30"
           ],
           "format": "Standard",
@@ -40,8 +43,10 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "16:20",
-            "19:50"
+            "10:50",
+            "12:50",
+            "16:30",
+            "19:45"
           ],
           "format": "Standard",
           "day": "today",
@@ -77,8 +82,9 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "15:40",
-            "18:00"
+            "16:00",
+            "18:20",
+            "20:40"
           ],
           "format": "Standard",
           "day": "today",
@@ -101,8 +107,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "14:30",
-            "17:00",
+            "15:20",
+            "17:50",
             "20:20"
           ],
           "format": "Standard",
@@ -269,22 +275,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Fast And The Furious (25Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 47m",
+          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 45m",
           "showtimes": [
-            "20:10"
+            "11:00"
           ],
           "format": "Standard",
           "day": "today",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 45m",
+          "title": "The Fast And The Furious (25Th Anniversary)",
+          "rating": "12A",
+          "duration": "1h 47m",
           "showtimes": [
-            "11:00"
+            "20:10"
           ],
           "format": "Standard",
           "day": "today",
@@ -347,6 +353,18 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "The Pout-Pout Fish",
+          "rating": "PG",
+          "duration": "1h 32m",
+          "showtimes": [
+            "10:30",
+            "12:30"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Wallace & Gromit: The Wrong Trousers",
           "rating": "U",
           "duration": "Unknown",
@@ -358,12 +376,12 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Pout-Pout Fish",
-          "rating": "PG",
-          "duration": "1h 32m",
+          "title": "Don'T Look Back In Anger",
+          "rating": "Unknown",
+          "duration": "2h 0m",
           "showtimes": [
-            "10:30",
-            "12:30"
+            "19:30",
+            "20:30"
           ],
           "format": "Standard",
           "day": "today",
@@ -463,14 +481,16 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
+            "11:00",
             "14:10",
-            "16:30",
+            "16:20",
             "17:20",
-            "19:40",
+            "19:30",
             "20:30"
           ],
           "format": "Standard",
-          "day": "thursday",
+          "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -478,11 +498,13 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "16:20",
-            "19:50"
+            "10:50",
+            "12:50",
+            "16:30",
+            "19:45"
           ],
           "format": "Standard",
-          "day": "thursday",
+          "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -494,7 +516,7 @@
             "21:00"
           ],
           "format": "Standard",
-          "day": "thursday",
+          "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -507,7 +529,7 @@
             "14:00"
           ],
           "format": "Standard",
-          "day": "thursday",
+          "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
@@ -515,448 +537,11 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "15:40",
-            "18:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 37m",
-          "showtimes": [
-            "16:20",
-            "18:40"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Insidious: Out Of The Further",
-          "rating": "15",
-          "duration": "1h 45m",
-          "showtimes": [
-            "14:30",
-            "17:00",
-            "20:20"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "15:50",
+            "16:00",
+            "18:20",
             "20:40"
           ],
           "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Minions & Monsters",
-          "rating": "U",
-          "duration": "1h 30m",
-          "showtimes": [
-            "11:30",
-            "13:40"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 30m",
-          "showtimes": [
-            "10:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "10:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 55m",
-          "showtimes": [
-            "12:40"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Baby Born: Join-In Cinema",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:10"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Lady",
-          "rating": "15",
-          "duration": "1h 35m",
-          "showtimes": [
-            "19:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Khalifa (Malayalam)",
-          "rating": "15",
-          "duration": "2h 50m",
-          "showtimes": [
-            "20:15"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Bethlehem Kudumba Unit (Malayalam)",
-          "rating": "12A",
-          "duration": "2h 43m",
-          "showtimes": [
-            "13:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Ghost: 2 Big To Rig",
-          "rating": "15",
-          "duration": "1h 55m",
-          "showtimes": [
-            "19:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Kiki'S Delivery Service (Dubbed)",
-          "rating": "U",
-          "duration": "1h 44m",
-          "showtimes": [
-            "14:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Kiki'S Delivery Service (Subbed)",
-          "rating": "U",
-          "duration": "1h 44m",
-          "showtimes": [
-            "16:45"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 41m",
-          "showtimes": [
-            "10:10",
-            "14:45",
-            "17:15",
-            "19:40"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Wallace & Gromit: A Grand Day Out",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:20"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "The Fast And The Furious (25Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 47m",
-          "showtimes": [
-            "20:10"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 45m",
-          "showtimes": [
-            "11:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "La La Land (10Th Anniversary)",
-          "rating": "12A",
-          "duration": "2h 8m",
-          "showtimes": [
-            "14:15"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
-          "rating": "12A",
-          "duration": "2h 12m",
-          "showtimes": [
-            "19:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "I'M Game (Malayalam)",
-          "rating": "Unknown",
-          "duration": "3h 0m",
-          "showtimes": [
-            "13:50",
-            "20:10"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Ponyo (Subbed)",
-          "rating": "U",
-          "duration": "1h 41m",
-          "showtimes": [
-            "10:10"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Star Trek Iv: The Voyage Home (40Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 3m",
-          "showtimes": [
-            "19:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Wallace & Gromit: The Wrong Trousers",
-          "rating": "U",
-          "duration": "Unknown",
-          "showtimes": [
-            "10:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "The Pout-Pout Fish",
-          "rating": "PG",
-          "duration": "1h 32m",
-          "showtimes": [
-            "10:30",
-            "12:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Holy Days",
-          "rating": "12A",
-          "duration": "1h 41m",
-          "showtimes": [
-            "18:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Ponyo (Dubbed)",
-          "rating": "U",
-          "duration": "1h 41m",
-          "showtimes": [
-            "16:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "The Death Of Robin Hood",
-          "rating": "15",
-          "duration": "2h 3m",
-          "showtimes": [
-            "19:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Terminator 2: Judgment Day (35Th Anniversary)",
-          "rating": "18",
-          "duration": "2h 18m",
-          "showtimes": [
-            "20:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Colony",
-          "rating": "15",
-          "duration": "2h 3m",
-          "showtimes": [
-            "20:00"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "The Incomer",
-          "rating": "Unknown",
-          "duration": "1h 42m",
-          "showtimes": [
-            "13:30",
-            "18:20"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Mirzapur: The Movie (Hindi)",
-          "rating": "Unknown",
-          "duration": "2h 50m",
-          "showtimes": [
-            "20:15"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Pressure",
-          "rating": "Unknown",
-          "duration": "1h 50m",
-          "showtimes": [
-            "19:30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 24m",
-          "showtimes": [
-            "14:10",
-            "16:30",
-            "17:20",
-            "19:40",
-            "20:30"
-          ],
-          "format": "Standard",
-          "day": "friday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 52m",
-          "showtimes": [
-            "16:20",
-            "19:50"
-          ],
-          "format": "Standard",
-          "day": "friday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Mutiny",
-          "rating": "15",
-          "duration": "1h 35m",
-          "showtimes": [
-            "18:20",
-            "21:00"
-          ],
-          "format": "Standard",
-          "day": "friday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "Coyote Vs. Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:15",
-            "11:40",
-            "14:00"
-          ],
-          "format": "Standard",
-          "day": "friday",
-          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "15:40",
-            "18:00"
-          ],
-          "format": "Standard",
           "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
@@ -977,8 +562,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "14:30",
-            "17:00",
+            "15:20",
+            "17:50",
             "20:20"
           ],
           "format": "Standard",
@@ -1145,22 +730,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Fast And The Furious (25Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 47m",
+          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 45m",
           "showtimes": [
-            "20:10"
+            "11:00"
           ],
           "format": "Standard",
           "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 45m",
+          "title": "The Fast And The Furious (25Th Anniversary)",
+          "rating": "12A",
+          "duration": "1h 47m",
           "showtimes": [
-            "11:00"
+            "20:10"
           ],
           "format": "Standard",
           "day": "friday",
@@ -1223,6 +808,18 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "The Pout-Pout Fish",
+          "rating": "PG",
+          "duration": "1h 32m",
+          "showtimes": [
+            "10:30",
+            "12:30"
+          ],
+          "format": "Standard",
+          "day": "friday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Wallace & Gromit: The Wrong Trousers",
           "rating": "U",
           "duration": "Unknown",
@@ -1234,12 +831,12 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Pout-Pout Fish",
-          "rating": "PG",
-          "duration": "1h 32m",
+          "title": "Don'T Look Back In Anger",
+          "rating": "Unknown",
+          "duration": "2h 0m",
           "showtimes": [
-            "10:30",
-            "12:30"
+            "19:30",
+            "20:30"
           ],
           "format": "Standard",
           "day": "friday",
@@ -1339,10 +936,12 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
+            "11:00",
             "14:10",
-            "16:30",
+            "16:20",
             "17:20",
-            "19:40",
+            "19:30",
             "20:30"
           ],
           "format": "Standard",
@@ -1354,8 +953,10 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "16:20",
-            "19:50"
+            "10:50",
+            "12:50",
+            "16:30",
+            "19:45"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1391,8 +992,9 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "15:40",
-            "18:00"
+            "16:00",
+            "18:20",
+            "20:40"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1415,8 +1017,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "14:30",
-            "17:00",
+            "15:20",
+            "17:50",
             "20:20"
           ],
           "format": "Standard",
@@ -1583,22 +1185,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Fast And The Furious (25Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 47m",
+          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 45m",
           "showtimes": [
-            "20:10"
+            "11:00"
           ],
           "format": "Standard",
           "day": "saturday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 45m",
+          "title": "The Fast And The Furious (25Th Anniversary)",
+          "rating": "12A",
+          "duration": "1h 47m",
           "showtimes": [
-            "11:00"
+            "20:10"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1661,6 +1263,18 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "The Pout-Pout Fish",
+          "rating": "PG",
+          "duration": "1h 32m",
+          "showtimes": [
+            "10:30",
+            "12:30"
+          ],
+          "format": "Standard",
+          "day": "saturday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Wallace & Gromit: The Wrong Trousers",
           "rating": "U",
           "duration": "Unknown",
@@ -1672,12 +1286,12 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Pout-Pout Fish",
-          "rating": "PG",
-          "duration": "1h 32m",
+          "title": "Don'T Look Back In Anger",
+          "rating": "Unknown",
+          "duration": "2h 0m",
           "showtimes": [
-            "10:30",
-            "12:30"
+            "19:30",
+            "20:30"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -1777,10 +1391,12 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
+            "11:00",
             "14:10",
-            "16:30",
+            "16:20",
             "17:20",
-            "19:40",
+            "19:30",
             "20:30"
           ],
           "format": "Standard",
@@ -1792,8 +1408,10 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "16:20",
-            "19:50"
+            "10:50",
+            "12:50",
+            "16:30",
+            "19:45"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -1829,8 +1447,9 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "15:40",
-            "18:00"
+            "16:00",
+            "18:20",
+            "20:40"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -1853,8 +1472,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "14:30",
-            "17:00",
+            "15:20",
+            "17:50",
             "20:20"
           ],
           "format": "Standard",
@@ -2021,22 +1640,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Fast And The Furious (25Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 47m",
+          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 45m",
           "showtimes": [
-            "20:10"
+            "11:00"
           ],
           "format": "Standard",
           "day": "sunday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 45m",
+          "title": "The Fast And The Furious (25Th Anniversary)",
+          "rating": "12A",
+          "duration": "1h 47m",
           "showtimes": [
-            "11:00"
+            "20:10"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -2099,6 +1718,18 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "The Pout-Pout Fish",
+          "rating": "PG",
+          "duration": "1h 32m",
+          "showtimes": [
+            "10:30",
+            "12:30"
+          ],
+          "format": "Standard",
+          "day": "sunday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Wallace & Gromit: The Wrong Trousers",
           "rating": "U",
           "duration": "Unknown",
@@ -2110,12 +1741,12 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Pout-Pout Fish",
-          "rating": "PG",
-          "duration": "1h 32m",
+          "title": "Don'T Look Back In Anger",
+          "rating": "Unknown",
+          "duration": "2h 0m",
           "showtimes": [
-            "10:30",
-            "12:30"
+            "19:30",
+            "20:30"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -2215,10 +1846,12 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
+            "11:00",
             "14:10",
-            "16:30",
+            "16:20",
             "17:20",
-            "19:40",
+            "19:30",
             "20:30"
           ],
           "format": "Standard",
@@ -2230,8 +1863,10 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "16:20",
-            "19:50"
+            "10:50",
+            "12:50",
+            "16:30",
+            "19:45"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2267,8 +1902,9 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "15:40",
-            "18:00"
+            "16:00",
+            "18:20",
+            "20:40"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2291,8 +1927,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "14:30",
-            "17:00",
+            "15:20",
+            "17:50",
             "20:20"
           ],
           "format": "Standard",
@@ -2459,22 +2095,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Fast And The Furious (25Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 47m",
+          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 45m",
           "showtimes": [
-            "20:10"
+            "11:00"
           ],
           "format": "Standard",
           "day": "monday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 45m",
+          "title": "The Fast And The Furious (25Th Anniversary)",
+          "rating": "12A",
+          "duration": "1h 47m",
           "showtimes": [
-            "11:00"
+            "20:10"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2537,6 +2173,18 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "The Pout-Pout Fish",
+          "rating": "PG",
+          "duration": "1h 32m",
+          "showtimes": [
+            "10:30",
+            "12:30"
+          ],
+          "format": "Standard",
+          "day": "monday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Wallace & Gromit: The Wrong Trousers",
           "rating": "U",
           "duration": "Unknown",
@@ -2548,12 +2196,12 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Pout-Pout Fish",
-          "rating": "PG",
-          "duration": "1h 32m",
+          "title": "Don'T Look Back In Anger",
+          "rating": "Unknown",
+          "duration": "2h 0m",
           "showtimes": [
-            "10:30",
-            "12:30"
+            "19:30",
+            "20:30"
           ],
           "format": "Standard",
           "day": "monday",
@@ -2653,10 +2301,12 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
+            "11:00",
             "14:10",
-            "16:30",
+            "16:20",
             "17:20",
-            "19:40",
+            "19:30",
             "20:30"
           ],
           "format": "Standard",
@@ -2668,8 +2318,10 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "16:20",
-            "19:50"
+            "10:50",
+            "12:50",
+            "16:30",
+            "19:45"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -2705,8 +2357,9 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "15:40",
-            "18:00"
+            "16:00",
+            "18:20",
+            "20:40"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -2729,8 +2382,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "14:30",
-            "17:00",
+            "15:20",
+            "17:50",
             "20:20"
           ],
           "format": "Standard",
@@ -2897,22 +2550,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Fast And The Furious (25Th Anniversary)",
-          "rating": "12A",
-          "duration": "1h 47m",
+          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 45m",
           "showtimes": [
-            "20:10"
+            "11:00"
           ],
           "format": "Standard",
           "day": "tuesday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
-          "rating": "PG",
-          "duration": "2h 45m",
+          "title": "The Fast And The Furious (25Th Anniversary)",
+          "rating": "12A",
+          "duration": "1h 47m",
           "showtimes": [
-            "11:00"
+            "20:10"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -2975,6 +2628,18 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "The Pout-Pout Fish",
+          "rating": "PG",
+          "duration": "1h 32m",
+          "showtimes": [
+            "10:30",
+            "12:30"
+          ],
+          "format": "Standard",
+          "day": "tuesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Wallace & Gromit: The Wrong Trousers",
           "rating": "U",
           "duration": "Unknown",
@@ -2986,12 +2651,12 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
-          "title": "The Pout-Pout Fish",
-          "rating": "PG",
-          "duration": "1h 32m",
+          "title": "Don'T Look Back In Anger",
+          "rating": "Unknown",
+          "duration": "2h 0m",
           "showtimes": [
-            "10:30",
-            "12:30"
+            "19:30",
+            "20:30"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -3084,6 +2749,461 @@
           ],
           "format": "Standard",
           "day": "tuesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 24m",
+          "showtimes": [
+            "10:00",
+            "11:00",
+            "14:10",
+            "16:20",
+            "17:20",
+            "19:30",
+            "20:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 52m",
+          "showtimes": [
+            "10:50",
+            "12:50",
+            "16:30",
+            "19:45"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Mutiny",
+          "rating": "15",
+          "duration": "1h 35m",
+          "showtimes": [
+            "18:20",
+            "21:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Coyote Vs. Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "10:15",
+            "11:40",
+            "14:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "16:00",
+            "18:20",
+            "20:40"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 37m",
+          "showtimes": [
+            "16:20",
+            "18:40"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 45m",
+          "showtimes": [
+            "15:20",
+            "17:50",
+            "20:20"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "15:50",
+            "20:40"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Minions & Monsters",
+          "rating": "U",
+          "duration": "1h 30m",
+          "showtimes": [
+            "11:30",
+            "13:40"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 30m",
+          "showtimes": [
+            "10:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Toy Story 5",
+          "rating": "PG",
+          "duration": "1h 42m",
+          "showtimes": [
+            "10:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Moana",
+          "rating": "PG",
+          "duration": "1h 55m",
+          "showtimes": [
+            "12:40"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Baby Born: Join-In Cinema",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:10"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Lady",
+          "rating": "15",
+          "duration": "1h 35m",
+          "showtimes": [
+            "19:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Khalifa (Malayalam)",
+          "rating": "15",
+          "duration": "2h 50m",
+          "showtimes": [
+            "20:15"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Bethlehem Kudumba Unit (Malayalam)",
+          "rating": "12A",
+          "duration": "2h 43m",
+          "showtimes": [
+            "13:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Ghost: 2 Big To Rig",
+          "rating": "15",
+          "duration": "1h 55m",
+          "showtimes": [
+            "19:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Kiki'S Delivery Service (Dubbed)",
+          "rating": "U",
+          "duration": "1h 44m",
+          "showtimes": [
+            "14:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Kiki'S Delivery Service (Subbed)",
+          "rating": "U",
+          "duration": "1h 44m",
+          "showtimes": [
+            "16:45"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "One Night Only",
+          "rating": "15",
+          "duration": "1h 41m",
+          "showtimes": [
+            "10:10",
+            "14:45",
+            "17:15",
+            "19:40"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: A Grand Day Out",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:20"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Harry Potter And The Philosopher'S Stone (25Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 45m",
+          "showtimes": [
+            "11:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The Fast And The Furious (25Th Anniversary)",
+          "rating": "12A",
+          "duration": "1h 47m",
+          "showtimes": [
+            "20:10"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "La La Land (10Th Anniversary)",
+          "rating": "12A",
+          "duration": "2h 8m",
+          "showtimes": [
+            "14:15"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Katy Perry: The Lifetimes Tour - Live From Paris",
+          "rating": "12A",
+          "duration": "2h 12m",
+          "showtimes": [
+            "19:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "I'M Game (Malayalam)",
+          "rating": "Unknown",
+          "duration": "3h 0m",
+          "showtimes": [
+            "13:50",
+            "20:10"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Ponyo (Subbed)",
+          "rating": "U",
+          "duration": "1h 41m",
+          "showtimes": [
+            "10:10"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Star Trek Iv: The Voyage Home (40Th Anniversary)",
+          "rating": "PG",
+          "duration": "2h 3m",
+          "showtimes": [
+            "19:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The Pout-Pout Fish",
+          "rating": "PG",
+          "duration": "1h 32m",
+          "showtimes": [
+            "10:30",
+            "12:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Wallace & Gromit: The Wrong Trousers",
+          "rating": "U",
+          "duration": "Unknown",
+          "showtimes": [
+            "10:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Don'T Look Back In Anger",
+          "rating": "Unknown",
+          "duration": "2h 0m",
+          "showtimes": [
+            "19:30",
+            "20:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Holy Days",
+          "rating": "12A",
+          "duration": "1h 41m",
+          "showtimes": [
+            "18:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Ponyo (Dubbed)",
+          "rating": "U",
+          "duration": "1h 41m",
+          "showtimes": [
+            "16:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The Death Of Robin Hood",
+          "rating": "15",
+          "duration": "2h 3m",
+          "showtimes": [
+            "19:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Terminator 2: Judgment Day (35Th Anniversary)",
+          "rating": "18",
+          "duration": "2h 18m",
+          "showtimes": [
+            "20:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Colony",
+          "rating": "15",
+          "duration": "2h 3m",
+          "showtimes": [
+            "20:00"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The Incomer",
+          "rating": "Unknown",
+          "duration": "1h 42m",
+          "showtimes": [
+            "13:30",
+            "18:20"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Mirzapur: The Movie (Hindi)",
+          "rating": "Unknown",
+          "duration": "2h 50m",
+          "showtimes": [
+            "20:15"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "Pressure",
+          "rating": "Unknown",
+          "duration": "1h 50m",
+          "showtimes": [
+            "19:30"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         }
       ]
@@ -3095,22 +3215,23 @@
       "url": "https://cambridge.thelight.co.uk/imax",
       "films": [
         {
-          "title": "The Dog Stars",
+          "title": "The Odyssey",
           "rating": "15",
-          "duration": "2h 0m",
+          "duration": "2h 52m",
           "showtimes": [
-            "17.10"
+            "10.50",
+            "19.45"
           ],
           "format": "Standard",
           "day": "today",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 52m",
+          "title": "Kiki'S Delivery Service (Dubbed)",
+          "rating": "U",
+          "duration": "1h 44m",
           "showtimes": [
-            "19.50"
+            "14.30"
           ],
           "format": "Standard",
           "day": "today",
@@ -3124,41 +3245,7 @@
             "17.00"
           ],
           "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 52m",
-          "showtimes": [
-            "10.50",
-            "19.45"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "Kiki'S Delivery Service (Dubbed)",
-          "rating": "U",
-          "duration": "1h 44m",
-          "showtimes": [
-            "14.30"
-          ],
-          "format": "Standard",
-          "day": "thursday",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "2h 0m",
-          "showtimes": [
-            "17.10"
-          ],
-          "format": "Standard",
-          "day": "friday",
+          "day": "today",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
@@ -3182,7 +3269,7 @@
             "17.10"
           ],
           "format": "Standard",
-          "day": "saturday",
+          "day": "friday",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
@@ -3206,7 +3293,7 @@
             "17.10"
           ],
           "format": "Standard",
-          "day": "sunday",
+          "day": "saturday",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
@@ -3230,7 +3317,7 @@
             "17.10"
           ],
           "format": "Standard",
-          "day": "monday",
+          "day": "sunday",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
@@ -3254,7 +3341,7 @@
             "17.10"
           ],
           "format": "Standard",
-          "day": "tuesday",
+          "day": "monday",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
@@ -3276,20 +3363,54 @@
           "duration": "2h 0m",
           "showtimes": [
             "17.10"
+          ],
+          "format": "Standard",
+          "day": "tuesday",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 52m",
+          "showtimes": [
+            "10.00",
+            "13.35",
+            "19.50"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
+          "title": "The Dog Stars",
+          "rating": "15",
+          "duration": "2h 0m",
+          "showtimes": [
+            "17.10"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 52m",
+          "showtimes": [
+            "10.00",
+            "13.30",
+            "19.50"
           ],
           "format": "Standard",
           "day": "future",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
-          "title": "The Odyssey",
+          "title": "The Dog Stars",
           "rating": "15",
-          "duration": "2h 52m",
+          "duration": "2h 0m",
           "showtimes": [
-            "10.00",
-            "13.30",
-            "13.35",
-            "19.50"
+            "17.10"
           ],
           "format": "Standard",
           "day": "future",
@@ -3313,6 +3434,49 @@
           "duration": "1h 55m",
           "showtimes": [
             "14.30"
+          ],
+          "format": "Standard",
+          "day": "future",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
+          "title": "Whisper Of The Heart (Subbed)",
+          "rating": "U",
+          "duration": "1h 52m",
+          "showtimes": [
+            "17.20"
+          ],
+          "format": "Standard",
+          "day": "future",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
+          "title": "Whisper Of The Heart (Dubbed)",
+          "rating": "U",
+          "duration": "1h 52m",
+          "showtimes": [
+            "17.20"
+          ],
+          "format": "Standard",
+          "day": "future",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
+          "title": "Resident Evil",
+          "rating": "Unknown",
+          "duration": "1h 30m",
+          "showtimes": [
+            "10.30",
+            "11.30",
+            "12.40",
+            "13.40",
+            "14.50",
+            "15.50",
+            "17.00",
+            "18.00",
+            "19.10",
+            "20.10",
+            "21.20"
           ],
           "format": "Standard",
           "day": "future",
@@ -3360,7 +3524,7 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "12:00",
+            "13:15",
             "20:30"
           ],
           "day": "today",
@@ -3371,7 +3535,8 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:15"
+            "12:30",
+            "18:30"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3381,8 +3546,8 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "15:15",
-            "18:30"
+            "16:00",
+            "19:00"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3392,7 +3557,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "13:15",
+            "15:15",
             "21:00"
           ],
           "day": "today",
@@ -3403,8 +3568,10 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:45",
-            "19:45"
+            "10:30",
+            "13:45",
+            "16:45",
+            "20:00"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3414,7 +3581,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "12:45",
+            "10:00",
             "18:00"
           ],
           "day": "today",
@@ -3425,8 +3592,8 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:30",
-            "17:45"
+            "12:45",
+            "19:30"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3436,7 +3603,17 @@
           "rating": "U",
           "duration": "1h 28m",
           "showtimes": [
-            "14:15"
+            "12:00"
+          ],
+          "day": "today",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Toy Story 5",
+          "rating": "PG",
+          "duration": "1h 42m",
+          "showtimes": [
+            "09:45"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3446,7 +3623,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "16:00"
+            "09:30",
+            "14:15",
+            "16:30"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3456,18 +3635,18 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "16:40",
+            "17:00",
             "21:30"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Throwback: The Lord Of The Rings: The Two Towers (Extended Edition)",
-          "rating": "12A",
-          "duration": "3h 44m",
+          "title": "Family Film Club: The Parent Trap",
+          "rating": "PG",
+          "duration": "2h 8m",
           "showtimes": [
-            "19:15"
+            "10:15"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3477,124 +3656,7 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "12:00",
-            "20:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "17:15"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "15:15",
-            "18:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
             "13:15",
-            "21:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "14:45",
-            "19:45"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "12:45",
-            "18:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:30",
-            "17:45"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 28m",
-          "showtimes": [
-            "14:15"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "16:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Insidious: Out Of The Further",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:40",
-            "21:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Throwback: The Lord Of The Rings: The Two Towers (Extended Edition)",
-          "rating": "12A",
-          "duration": "3h 44m",
-          "showtimes": [
-            "19:15"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:00",
             "20:30"
           ],
           "day": "friday",
@@ -3605,7 +3667,8 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:15"
+            "12:30",
+            "18:30"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3615,8 +3678,8 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "15:15",
-            "18:30"
+            "16:00",
+            "19:00"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3626,7 +3689,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "13:15",
+            "15:15",
             "21:00"
           ],
           "day": "friday",
@@ -3637,8 +3700,10 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:45",
-            "19:45"
+            "10:30",
+            "13:45",
+            "16:45",
+            "20:00"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3648,7 +3713,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "12:45",
+            "10:00",
             "18:00"
           ],
           "day": "friday",
@@ -3659,8 +3724,8 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:30",
-            "17:45"
+            "12:45",
+            "19:30"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3670,7 +3735,17 @@
           "rating": "U",
           "duration": "1h 28m",
           "showtimes": [
-            "14:15"
+            "12:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Toy Story 5",
+          "rating": "PG",
+          "duration": "1h 42m",
+          "showtimes": [
+            "09:45"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3680,7 +3755,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "16:00"
+            "09:30",
+            "14:15",
+            "16:30"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3690,18 +3767,18 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "16:40",
+            "17:00",
             "21:30"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Throwback: The Lord Of The Rings: The Two Towers (Extended Edition)",
-          "rating": "12A",
-          "duration": "3h 44m",
+          "title": "Family Film Club: The Parent Trap",
+          "rating": "PG",
+          "duration": "2h 8m",
           "showtimes": [
-            "19:15"
+            "10:15"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3711,124 +3788,7 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "12:00",
-            "20:30"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "17:15"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "15:15",
-            "18:30"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
             "13:15",
-            "21:00"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "14:45",
-            "19:45"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "12:45",
-            "18:00"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:30",
-            "17:45"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 28m",
-          "showtimes": [
-            "14:15"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "16:00"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Insidious: Out Of The Further",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:40",
-            "21:30"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Throwback: The Lord Of The Rings: The Two Towers (Extended Edition)",
-          "rating": "12A",
-          "duration": "3h 44m",
-          "showtimes": [
-            "19:15"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:00",
             "20:30"
           ],
           "day": "sunday",
@@ -3839,7 +3799,8 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:15"
+            "12:30",
+            "18:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3849,8 +3810,8 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "15:15",
-            "18:30"
+            "16:00",
+            "19:00"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3860,7 +3821,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "13:15",
+            "15:15",
             "21:00"
           ],
           "day": "sunday",
@@ -3871,8 +3832,10 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:45",
-            "19:45"
+            "10:30",
+            "13:45",
+            "16:45",
+            "20:00"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3882,7 +3845,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "12:45",
+            "10:00",
             "18:00"
           ],
           "day": "sunday",
@@ -3893,8 +3856,8 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:30",
-            "17:45"
+            "12:45",
+            "19:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3904,7 +3867,17 @@
           "rating": "U",
           "duration": "1h 28m",
           "showtimes": [
-            "14:15"
+            "12:00"
+          ],
+          "day": "sunday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Toy Story 5",
+          "rating": "PG",
+          "duration": "1h 42m",
+          "showtimes": [
+            "09:45"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3914,7 +3887,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "16:00"
+            "09:30",
+            "14:15",
+            "16:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3924,18 +3899,18 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "16:40",
+            "17:00",
             "21:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Throwback: The Lord Of The Rings: The Two Towers (Extended Edition)",
-          "rating": "12A",
-          "duration": "3h 44m",
+          "title": "Family Film Club: The Parent Trap",
+          "rating": "PG",
+          "duration": "2h 8m",
           "showtimes": [
-            "19:15"
+            "10:15"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3945,7 +3920,7 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "12:00",
+            "13:15",
             "20:30"
           ],
           "day": "monday",
@@ -3956,7 +3931,8 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:15"
+            "12:30",
+            "18:30"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3966,8 +3942,8 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "15:15",
-            "18:30"
+            "16:00",
+            "19:00"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3977,7 +3953,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "13:15",
+            "15:15",
             "21:00"
           ],
           "day": "monday",
@@ -3988,8 +3964,10 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:45",
-            "19:45"
+            "10:30",
+            "13:45",
+            "16:45",
+            "20:00"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3999,7 +3977,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "12:45",
+            "10:00",
             "18:00"
           ],
           "day": "monday",
@@ -4010,8 +3988,8 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:30",
-            "17:45"
+            "12:45",
+            "19:30"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4021,7 +3999,17 @@
           "rating": "U",
           "duration": "1h 28m",
           "showtimes": [
-            "14:15"
+            "12:00"
+          ],
+          "day": "monday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Toy Story 5",
+          "rating": "PG",
+          "duration": "1h 42m",
+          "showtimes": [
+            "09:45"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4031,7 +4019,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "16:00"
+            "09:30",
+            "14:15",
+            "16:30"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4041,18 +4031,18 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "16:40",
+            "17:00",
             "21:30"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Throwback: The Lord Of The Rings: The Two Towers (Extended Edition)",
-          "rating": "12A",
-          "duration": "3h 44m",
+          "title": "Family Film Club: The Parent Trap",
+          "rating": "PG",
+          "duration": "2h 8m",
           "showtimes": [
-            "19:15"
+            "10:15"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4062,7 +4052,7 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "12:00",
+            "13:15",
             "20:30"
           ],
           "day": "tuesday",
@@ -4073,7 +4063,8 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:15"
+            "12:30",
+            "18:30"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4083,8 +4074,8 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "15:15",
-            "18:30"
+            "16:00",
+            "19:00"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4094,7 +4085,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "13:15",
+            "15:15",
             "21:00"
           ],
           "day": "tuesday",
@@ -4105,8 +4096,10 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:45",
-            "19:45"
+            "10:30",
+            "13:45",
+            "16:45",
+            "20:00"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4116,7 +4109,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "12:45",
+            "10:00",
             "18:00"
           ],
           "day": "tuesday",
@@ -4127,8 +4120,8 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:30",
-            "17:45"
+            "12:45",
+            "19:30"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4138,7 +4131,17 @@
           "rating": "U",
           "duration": "1h 28m",
           "showtimes": [
-            "14:15"
+            "12:00"
+          ],
+          "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Toy Story 5",
+          "rating": "PG",
+          "duration": "1h 42m",
+          "showtimes": [
+            "09:45"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4148,7 +4151,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "16:00"
+            "09:30",
+            "14:15",
+            "16:30"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4158,20 +4163,152 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "16:40",
+            "17:00",
             "21:30"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Throwback: The Lord Of The Rings: The Two Towers (Extended Edition)",
-          "rating": "12A",
-          "duration": "3h 44m",
+          "title": "Family Film Club: The Parent Trap",
+          "rating": "PG",
+          "duration": "2h 8m",
           "showtimes": [
-            "19:15"
+            "10:15"
           ],
           "day": "tuesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Dog Stars",
+          "rating": "15",
+          "duration": "1h 59m",
+          "showtimes": [
+            "13:15",
+            "20:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "12:30",
+            "18:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "16:00",
+            "19:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "15:15",
+            "21:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "10:30",
+            "13:45",
+            "16:45",
+            "20:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The End Of Oak Street",
+          "rating": "12A",
+          "duration": "1h 40m",
+          "showtimes": [
+            "10:00",
+            "18:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "15",
+          "duration": "2h 53m",
+          "showtimes": [
+            "12:45",
+            "19:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Paw Patrol: The Dino Movie",
+          "rating": "U",
+          "duration": "1h 28m",
+          "showtimes": [
+            "12:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Toy Story 5",
+          "rating": "PG",
+          "duration": "1h 42m",
+          "showtimes": [
+            "09:45"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Coyote Vs Acme",
+          "rating": "PG",
+          "duration": "1h 43m",
+          "showtimes": [
+            "09:30",
+            "14:15",
+            "16:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Insidious: Out Of The Further",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:00",
+            "21:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Family Film Club: The Parent Trap",
+          "rating": "PG",
+          "duration": "2h 8m",
+          "showtimes": [
+            "10:15"
+          ],
+          "day": "wednesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         }
       ]
@@ -4187,80 +4324,9 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "14:40"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Life Support",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "17:10"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "17:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "14:30",
-            "20:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "19:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Tony",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "20:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Volver",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "17:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Lady",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
             "11:30"
           ],
-          "day": "thursday",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -4270,7 +4336,7 @@
           "showtimes": [
             "11:40"
           ],
-          "day": "thursday",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -4280,7 +4346,7 @@
           "showtimes": [
             "13:45"
           ],
-          "day": "thursday",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -4291,7 +4357,7 @@
             "14:00",
             "17:30"
           ],
-          "day": "thursday",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -4302,7 +4368,7 @@
             "17:20",
             "20:40"
           ],
-          "day": "thursday",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -4313,7 +4379,7 @@
             "11:30",
             "19:30"
           ],
-          "day": "thursday",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -4325,7 +4391,7 @@
             "17:00",
             "20:00"
           ],
-          "day": "thursday",
+          "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
@@ -4868,6 +4934,118 @@
             "15:45"
           ],
           "day": "tuesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Bitter Christmas",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "11:15",
+            "20:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "De Gaulle: Resistance",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "11:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "I Want Your Sex",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "13:45",
+            "20:50"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Kiki\u2019S Delivery Service (Subbed)",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "14:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Leviticus",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "17:10"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Pressure + Live Broadcast Q&A",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "19:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "14:45"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "18:15"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "The Death Of Robin Hood",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "17:50"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "11:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "Tony",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "15:50"
+          ],
+          "day": "wednesday",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         }
       ]
