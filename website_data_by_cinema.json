@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-28T11:07:41.690491",
+  "last_updated": "2026-08-28T22:13:23.429524",
   "location": "Cambridge, UK",
   "cinemas": [
     {
@@ -13,9 +13,10 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
+            "11:15",
             "14:00",
             "17:10",
-            "20:15"
+            "20:10"
           ],
           "format": "Standard",
           "day": "today",
@@ -26,6 +27,7 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
             "13:10",
             "16:20",
             "19:30"
@@ -39,6 +41,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
+            "10:00",
             "13:40",
             "16:40",
             "19:50"
@@ -65,9 +68,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "12:45",
-            "15:15",
-            "17:40"
+            "11:20",
+            "13:45",
+            "17:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -111,6 +114,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
+            "10:10",
             "12:30"
           ],
           "format": "Standard",
@@ -133,7 +137,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "17:00",
+            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -156,7 +160,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "16:45"
+            "16:15"
           ],
           "format": "Standard",
           "day": "today",
@@ -167,8 +171,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "19:20",
-            "21:45"
+            "18:50",
+            "21:20"
           ],
           "format": "Standard",
           "day": "today",
@@ -202,7 +206,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "20:10"
+            "16:15"
           ],
           "format": "Standard",
           "day": "today",
@@ -445,10 +449,36 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "9 To 5",
+          "rating": "15",
+          "duration": "1h 49m",
+          "showtimes": [
+            "13:45"
+          ],
+          "format": "Standard",
+          "day": "today",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "The Dog Stars",
+          "rating": "15",
+          "duration": "2h 0m",
+          "showtimes": [
+            "11:15",
+            "14:00",
+            "17:10",
+            "20:10"
+          ],
+          "format": "Standard",
+          "day": "saturday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Spider-Man: Brand New Day",
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
             "13:10",
             "16:20",
             "19:30"
@@ -462,6 +492,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
+            "10:00",
             "13:40",
             "16:40",
             "19:50"
@@ -488,9 +519,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "12:45",
-            "15:15",
-            "17:40"
+            "11:20",
+            "13:45",
+            "17:00"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -534,6 +565,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
+            "10:10",
             "12:30"
           ],
           "format": "Standard",
@@ -556,7 +588,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "17:00",
+            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -579,7 +611,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "16:45"
+            "16:15"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -590,8 +622,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "19:20",
-            "21:45"
+            "18:50",
+            "21:20"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -625,7 +657,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "20:10"
+            "16:15"
           ],
           "format": "Standard",
           "day": "saturday",
@@ -868,10 +900,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "9 To 5",
+          "rating": "15",
+          "duration": "1h 49m",
+          "showtimes": [
+            "13:45"
+          ],
+          "format": "Standard",
+          "day": "saturday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Spider-Man: Brand New Day",
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
             "13:10",
             "16:20",
             "19:30"
@@ -885,6 +929,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
+            "10:00",
             "13:40",
             "16:40",
             "19:50"
@@ -911,9 +956,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "12:45",
-            "15:15",
-            "17:40"
+            "11:20",
+            "13:45",
+            "17:00"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -957,6 +1002,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
+            "10:10",
             "12:30"
           ],
           "format": "Standard",
@@ -979,7 +1025,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "17:00",
+            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -1002,7 +1048,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "16:45"
+            "16:15"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -1013,8 +1059,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "19:20",
-            "21:45"
+            "18:50",
+            "21:20"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -1048,7 +1094,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "20:10"
+            "16:15"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -1291,10 +1337,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "9 To 5",
+          "rating": "15",
+          "duration": "1h 49m",
+          "showtimes": [
+            "13:45"
+          ],
+          "format": "Standard",
+          "day": "sunday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Spider-Man: Brand New Day",
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
             "13:10",
             "16:20",
             "19:30"
@@ -1308,6 +1366,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
+            "10:00",
             "13:40",
             "16:40",
             "19:50"
@@ -1334,9 +1393,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "12:45",
-            "15:15",
-            "17:40"
+            "11:20",
+            "13:45",
+            "17:00"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1380,6 +1439,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
+            "10:10",
             "12:30"
           ],
           "format": "Standard",
@@ -1402,7 +1462,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "17:00",
+            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -1425,7 +1485,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "16:45"
+            "16:15"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1436,8 +1496,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "19:20",
-            "21:45"
+            "18:50",
+            "21:20"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1471,7 +1531,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "20:10"
+            "16:15"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1714,10 +1774,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "9 To 5",
+          "rating": "15",
+          "duration": "1h 49m",
+          "showtimes": [
+            "13:45"
+          ],
+          "format": "Standard",
+          "day": "monday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Spider-Man: Brand New Day",
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
             "13:10",
             "16:20",
             "19:30"
@@ -1731,6 +1803,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
+            "10:00",
             "13:40",
             "16:40",
             "19:50"
@@ -1757,9 +1830,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "12:45",
-            "15:15",
-            "17:40"
+            "11:20",
+            "13:45",
+            "17:00"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1803,6 +1876,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
+            "10:10",
             "12:30"
           ],
           "format": "Standard",
@@ -1825,7 +1899,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "17:00",
+            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -1848,7 +1922,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "16:45"
+            "16:15"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1859,8 +1933,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "19:20",
-            "21:45"
+            "18:50",
+            "21:20"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1894,7 +1968,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "20:10"
+            "16:15"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -2137,10 +2211,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "9 To 5",
+          "rating": "15",
+          "duration": "1h 49m",
+          "showtimes": [
+            "13:45"
+          ],
+          "format": "Standard",
+          "day": "tuesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Spider-Man: Brand New Day",
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
             "13:10",
             "16:20",
             "19:30"
@@ -2154,6 +2240,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
+            "10:00",
             "13:40",
             "16:40",
             "19:50"
@@ -2180,9 +2267,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "12:45",
-            "15:15",
-            "17:40"
+            "11:20",
+            "13:45",
+            "17:00"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2226,6 +2313,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
+            "10:10",
             "12:30"
           ],
           "format": "Standard",
@@ -2248,7 +2336,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "17:00",
+            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -2271,7 +2359,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "16:45"
+            "16:15"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2282,8 +2370,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "19:20",
-            "21:45"
+            "18:50",
+            "21:20"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2317,7 +2405,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "20:10"
+            "16:15"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2560,10 +2648,22 @@
           "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
         },
         {
+          "title": "9 To 5",
+          "rating": "15",
+          "duration": "1h 49m",
+          "showtimes": [
+            "13:45"
+          ],
+          "format": "Standard",
+          "day": "wednesday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
           "title": "Spider-Man: Brand New Day",
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
+            "10:00",
             "13:10",
             "16:20",
             "19:30"
@@ -2577,6 +2677,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
+            "10:00",
             "13:40",
             "16:40",
             "19:50"
@@ -2603,9 +2704,9 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "12:45",
-            "15:15",
-            "17:40"
+            "11:20",
+            "13:45",
+            "17:00"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2649,6 +2750,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
+            "10:10",
             "12:30"
           ],
           "format": "Standard",
@@ -2671,7 +2773,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "17:00",
+            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -2694,7 +2796,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "16:45"
+            "16:15"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2705,8 +2807,8 @@
           "rating": "15",
           "duration": "1h 45m",
           "showtimes": [
-            "19:20",
-            "21:45"
+            "18:50",
+            "21:20"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2740,7 +2842,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "20:10"
+            "16:15"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2977,6 +3079,17 @@
           "showtimes": [
             "19:30",
             "20:30"
+          ],
+          "format": "Standard",
+          "day": "thursday",
+          "booking_url": "https://cambridge.thelight.co.uk/cinema/nowshowing"
+        },
+        {
+          "title": "9 To 5",
+          "rating": "15",
+          "duration": "1h 49m",
+          "showtimes": [
+            "13:45"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2990,29 +3103,6 @@
       "address": "The Light Cambridge, Clifton Way, Cambridge, CB1 7DY",
       "url": "https://cambridge.thelight.co.uk/imax",
       "films": [
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 52m",
-          "showtimes": [
-            "13.40",
-            "19.50"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "2h 0m",
-          "showtimes": [
-            "17.10"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
         {
           "title": "The Odyssey",
           "rating": "15",
@@ -3174,7 +3264,10 @@
           "rating": "12A",
           "duration": "1h 55m",
           "showtimes": [
-            "14.30"
+            "10.40",
+            "14.30",
+            "17.10",
+            "20.00"
           ],
           "format": "Standard",
           "day": "future",
@@ -3261,50 +3354,6 @@
       "address": "Unit 42, Grand Arcade, Cambridge, CB2 3BJ",
       "films": [
         {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:30",
-            "16:15",
-            "20:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:25",
-            "19:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:45"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "11:30",
-            "18:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Teenage Sex And Death At Camp Miasma",
           "rating": "15",
           "duration": "1h 52m",
@@ -3315,124 +3364,13 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "09:45",
-            "14:00",
-            "20:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "11:15",
-            "18:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:00",
-            "19:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:00",
-            "16:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
             "21:30"
           ],
           "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "13:15",
-            "17:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:30",
-            "16:15",
-            "20:30"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:25",
-            "19:00"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:45"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "11:30",
-            "18:30"
-          ],
-          "day": "saturday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -3446,124 +3384,13 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "09:45",
-            "14:00",
-            "20:00"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "11:15",
-            "18:00"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:00",
-            "19:30"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:00",
-            "16:00"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
             "21:30"
           ],
           "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "13:15",
-            "17:15"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:30",
-            "16:15",
-            "20:30"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:25",
-            "19:00"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:45"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "11:30",
-            "18:30"
-          ],
-          "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -3577,124 +3404,13 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "09:45",
-            "14:00",
-            "20:00"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "11:15",
-            "18:00"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:00",
-            "19:30"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:00",
-            "16:00"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
             "21:30"
           ],
           "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "13:15",
-            "17:15"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:30",
-            "16:15",
-            "20:30"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:25",
-            "19:00"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:45"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "11:30",
-            "18:30"
-          ],
-          "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -3708,124 +3424,13 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "09:45",
-            "14:00",
-            "20:00"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "11:15",
-            "18:00"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:00",
-            "19:30"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:00",
-            "16:00"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
             "21:30"
           ],
           "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "13:15",
-            "17:15"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:30",
-            "16:15",
-            "20:30"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:25",
-            "19:00"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:45"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "11:30",
-            "18:30"
-          ],
-          "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -3839,124 +3444,13 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "09:45",
-            "14:00",
-            "20:00"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "11:15",
-            "18:00"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:00",
-            "19:30"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:00",
-            "16:00"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
             "21:30"
           ],
           "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "13:15",
-            "17:15"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:30",
-            "16:15",
-            "20:30"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:25",
-            "19:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:45"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "11:30",
-            "18:30"
-          ],
-          "day": "wednesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -3970,124 +3464,13 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "09:45",
-            "14:00",
-            "20:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "11:15",
-            "18:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:00",
-            "19:30"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:00",
-            "16:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
             "21:30"
           ],
           "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "13:15",
-            "17:15"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "12:30",
-            "16:15",
-            "20:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:25",
-            "19:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "16:45"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "11:30",
-            "18:30"
-          ],
-          "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
@@ -4101,78 +3484,11 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "09:45",
-            "14:00",
-            "20:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "11:15",
-            "18:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "13:00",
-            "19:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Coyote Vs Acme",
-          "rating": "PG",
-          "duration": "1h 43m",
-          "showtimes": [
-            "10:00",
-            "16:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
             "21:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "13:15",
-            "17:15"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4185,89 +3501,6 @@
       "address": "38-39 St Andrew's Street, Cambridge, CB2 3AR",
       "url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge",
       "films": [
-        {
-          "title": "Bitter Christmas",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "15:45",
-            "18:10"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "De Gaulle: Resistance",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "14:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "I Want Your Sex",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "17:30",
-            "20:40"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "12:40"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "15:30",
-            "20:45"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "The Invite",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "13:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "19:40"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Tony",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "18:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
         {
           "title": "Bitter Christmas",
           "rating": "U",
