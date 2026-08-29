@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-29T06:52:38.688566",
+  "last_updated": "2026-08-29T16:40:47.799628",
   "location": "Cambridge, UK",
   "cinemas": [
     {
@@ -13,9 +13,6 @@
           "rating": "12A",
           "duration": "2h 24m",
           "showtimes": [
-            "10:00",
-            "13:10",
-            "16:20",
             "19:30"
           ],
           "format": "Standard",
@@ -27,9 +24,6 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "11:15",
-            "14:00",
-            "17:10",
             "20:10"
           ],
           "format": "Standard",
@@ -41,9 +35,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:40",
-            "16:40",
             "19:50"
           ],
           "format": "Standard",
@@ -55,8 +46,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "14:45",
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -68,8 +57,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "11:20",
-            "13:45",
+            "14:30",
             "17:00"
           ],
           "format": "Standard",
@@ -81,7 +69,7 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "14:30"
+            "12:10"
           ],
           "format": "Standard",
           "day": "today",
@@ -92,7 +80,8 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "12:20"
+            "10:30",
+            "12:45"
           ],
           "format": "Standard",
           "day": "today",
@@ -103,7 +92,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:10"
+            "10:15"
           ],
           "format": "Standard",
           "day": "today",
@@ -114,8 +103,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
-            "10:10",
-            "12:30"
+            "10:00"
           ],
           "format": "Standard",
           "day": "today",
@@ -126,7 +114,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -184,7 +171,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "14:20"
+            "13:50"
           ],
           "format": "Standard",
           "day": "today",
@@ -217,8 +204,6 @@
           "rating": "12A",
           "duration": "2h 43m",
           "showtimes": [
-            "13:20",
-            "16:50",
             "20:20"
           ],
           "format": "Standard",
@@ -230,7 +215,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "16:15"
+            "19:30"
           ],
           "format": "Standard",
           "day": "today",
@@ -512,9 +497,6 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "11:15",
-            "14:00",
-            "17:10",
             "20:10"
           ],
           "format": "Standard",
@@ -526,9 +508,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:40",
-            "16:40",
             "19:50"
           ],
           "format": "Standard",
@@ -540,8 +519,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "14:45",
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -553,8 +530,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "11:20",
-            "13:45",
+            "14:30",
             "17:00"
           ],
           "format": "Standard",
@@ -566,7 +542,7 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "14:30"
+            "12:10"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -577,7 +553,8 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "12:20"
+            "10:30",
+            "12:45"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -588,7 +565,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:10"
+            "10:15"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -599,8 +576,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
-            "10:10",
-            "12:30"
+            "10:00"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -611,7 +587,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -669,7 +644,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "14:20"
+            "13:50"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -702,8 +677,6 @@
           "rating": "12A",
           "duration": "2h 43m",
           "showtimes": [
-            "13:20",
-            "16:50",
             "20:20"
           ],
           "format": "Standard",
@@ -715,7 +688,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "16:15"
+            "19:30"
           ],
           "format": "Standard",
           "day": "sunday",
@@ -997,9 +970,6 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "11:15",
-            "14:00",
-            "17:10",
             "20:10"
           ],
           "format": "Standard",
@@ -1011,9 +981,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:40",
-            "16:40",
             "19:50"
           ],
           "format": "Standard",
@@ -1025,8 +992,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "14:45",
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -1038,8 +1003,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "11:20",
-            "13:45",
+            "14:30",
             "17:00"
           ],
           "format": "Standard",
@@ -1051,7 +1015,7 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "14:30"
+            "12:10"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1062,7 +1026,8 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "12:20"
+            "10:30",
+            "12:45"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1073,7 +1038,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:10"
+            "10:15"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1084,8 +1049,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
-            "10:10",
-            "12:30"
+            "10:00"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1096,7 +1060,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -1154,7 +1117,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "14:20"
+            "13:50"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1187,8 +1150,6 @@
           "rating": "12A",
           "duration": "2h 43m",
           "showtimes": [
-            "13:20",
-            "16:50",
             "20:20"
           ],
           "format": "Standard",
@@ -1200,7 +1161,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "16:15"
+            "19:30"
           ],
           "format": "Standard",
           "day": "monday",
@@ -1482,9 +1443,6 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "11:15",
-            "14:00",
-            "17:10",
             "20:10"
           ],
           "format": "Standard",
@@ -1496,9 +1454,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:40",
-            "16:40",
             "19:50"
           ],
           "format": "Standard",
@@ -1510,8 +1465,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "14:45",
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -1523,8 +1476,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "11:20",
-            "13:45",
+            "14:30",
             "17:00"
           ],
           "format": "Standard",
@@ -1536,7 +1488,7 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "14:30"
+            "12:10"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1547,7 +1499,8 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "12:20"
+            "10:30",
+            "12:45"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1558,7 +1511,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:10"
+            "10:15"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1569,8 +1522,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
-            "10:10",
-            "12:30"
+            "10:00"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1581,7 +1533,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -1639,7 +1590,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "14:20"
+            "13:50"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1672,8 +1623,6 @@
           "rating": "12A",
           "duration": "2h 43m",
           "showtimes": [
-            "13:20",
-            "16:50",
             "20:20"
           ],
           "format": "Standard",
@@ -1685,7 +1634,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "16:15"
+            "19:30"
           ],
           "format": "Standard",
           "day": "tuesday",
@@ -1967,9 +1916,6 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "11:15",
-            "14:00",
-            "17:10",
             "20:10"
           ],
           "format": "Standard",
@@ -1981,9 +1927,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:40",
-            "16:40",
             "19:50"
           ],
           "format": "Standard",
@@ -1995,8 +1938,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "14:45",
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -2008,8 +1949,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "11:20",
-            "13:45",
+            "14:30",
             "17:00"
           ],
           "format": "Standard",
@@ -2021,7 +1961,7 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "14:30"
+            "12:10"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2032,7 +1972,8 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "12:20"
+            "10:30",
+            "12:45"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2043,7 +1984,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:10"
+            "10:15"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2054,8 +1995,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
-            "10:10",
-            "12:30"
+            "10:00"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2066,7 +2006,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -2124,7 +2063,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "14:20"
+            "13:50"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2157,8 +2096,6 @@
           "rating": "12A",
           "duration": "2h 43m",
           "showtimes": [
-            "13:20",
-            "16:50",
             "20:20"
           ],
           "format": "Standard",
@@ -2170,7 +2107,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "16:15"
+            "19:30"
           ],
           "format": "Standard",
           "day": "wednesday",
@@ -2452,9 +2389,6 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "11:15",
-            "14:00",
-            "17:10",
             "20:10"
           ],
           "format": "Standard",
@@ -2466,9 +2400,6 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10:00",
-            "13:40",
-            "16:40",
             "19:50"
           ],
           "format": "Standard",
@@ -2480,8 +2411,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "14:45",
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -2493,8 +2422,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "11:20",
-            "13:45",
+            "14:30",
             "17:00"
           ],
           "format": "Standard",
@@ -2506,7 +2434,7 @@
           "rating": "PG",
           "duration": "1h 42m",
           "showtimes": [
-            "14:30"
+            "12:10"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2517,7 +2445,8 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "12:20"
+            "10:30",
+            "12:45"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2528,7 +2457,7 @@
           "rating": "U",
           "duration": "1h 30m",
           "showtimes": [
-            "10:10"
+            "10:15"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2539,8 +2468,7 @@
           "rating": "PG",
           "duration": "1h 32m",
           "showtimes": [
-            "10:10",
-            "12:30"
+            "10:00"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2551,7 +2479,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "16:45",
             "19:10"
           ],
           "format": "Standard",
@@ -2609,7 +2536,7 @@
           "rating": "U",
           "duration": "1h 44m",
           "showtimes": [
-            "14:20"
+            "13:50"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2642,8 +2569,6 @@
           "rating": "12A",
           "duration": "2h 43m",
           "showtimes": [
-            "13:20",
-            "16:50",
             "20:20"
           ],
           "format": "Standard",
@@ -2655,7 +2580,7 @@
           "rating": "12A",
           "duration": "1h 47m",
           "showtimes": [
-            "16:15"
+            "19:30"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -2945,20 +2870,7 @@
           "rating": "15",
           "duration": "2h 52m",
           "showtimes": [
-            "10.00",
-            "13.40",
             "19.50"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "2h 0m",
-          "showtimes": [
-            "17.10"
           ],
           "format": "Standard",
           "day": "today",
@@ -3195,7 +3107,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "12:20",
             "16:45",
             "20:30"
           ],
@@ -3207,7 +3118,6 @@
           "rating": "15",
           "duration": "1h 42m",
           "showtimes": [
-            "10:45",
             "18:30"
           ],
           "day": "today",
@@ -3218,7 +3128,6 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "11:15",
             "17:15"
           ],
           "day": "today",
@@ -3229,7 +3138,6 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "11:30",
             "18:00"
           ],
           "day": "today",
@@ -3250,8 +3158,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "09:35",
-            "14:00",
             "20:00"
           ],
           "day": "today",
@@ -3262,7 +3168,6 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "13:45",
             "19:00"
           ],
           "day": "today",
@@ -3273,18 +3178,7 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:00",
             "19:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 28m",
-          "showtimes": [
-            "09:15"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3294,7 +3188,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "09:50",
             "16:00"
           ],
           "day": "today",
@@ -3316,18 +3209,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "13:15",
             "21:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toddler Club: Minions & Monsters",
-          "rating": "U",
-          "duration": "1h 29m",
-          "showtimes": [
-            "09:00"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3337,9 +3219,8 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "12:15",
-            "16:20",
-            "20:45"
+            "16:45",
+            "20:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3349,8 +3230,7 @@
           "rating": "15",
           "duration": "1h 42m",
           "showtimes": [
-            "11:15",
-            "18:45"
+            "18:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3360,8 +3240,7 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "10:00",
-            "16:00"
+            "17:15"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3371,7 +3250,7 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "15:45"
+            "18:00"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3381,7 +3260,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "17:30"
+            "15:15"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3391,9 +3270,7 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "10:15",
-            "13:45",
-            "20:15"
+            "20:00"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3403,8 +3280,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "10:40",
-            "18:15"
+            "19:00"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3414,8 +3290,7 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "12:40",
-            "19:45"
+            "19:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3425,8 +3300,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "09:45",
-            "15:00"
+            "16:00"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3436,8 +3310,8 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:30",
-            "21:15"
+            "16:20",
+            "21:30"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3447,28 +3321,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "13:00",
-            "17:00"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Throwback: The Lord Of The Rings: The Return Of The King (Extended Edition)",
-          "rating": "12A",
-          "duration": "4h 13m",
-          "showtimes": [
-            "19:15"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toddler Club: Minions & Monsters",
-          "rating": "U",
-          "duration": "1h 29m",
-          "showtimes": [
-            "09:00"
+            "21:00"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3478,7 +3331,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "13:15",
             "16:45",
             "20:30"
           ],
@@ -3490,7 +3342,6 @@
           "rating": "15",
           "duration": "1h 42m",
           "showtimes": [
-            "12:45",
             "18:30"
           ],
           "day": "monday",
@@ -3501,7 +3352,7 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:25"
+            "17:15"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3511,8 +3362,7 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "11:15",
-            "19:00"
+            "18:00"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3532,8 +3382,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "12:30",
-            "15:45",
             "20:00"
           ],
           "day": "monday",
@@ -3544,8 +3392,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "11:45",
-            "18:00"
+            "19:00"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3555,28 +3402,7 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:45",
             "19:30"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 28m",
-          "showtimes": [
-            "09:00"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "09:15"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3586,7 +3412,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "10:15",
             "16:00"
           ],
           "day": "monday",
@@ -3597,7 +3422,7 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "14:15",
+            "16:20",
             "21:30"
           ],
           "day": "monday",
@@ -3608,18 +3433,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "10:35",
             "21:00"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Family Film Club: Finding Nemo",
-          "rating": "U",
-          "duration": "1h 41m",
-          "showtimes": [
-            "10:00"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3629,9 +3443,8 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "13:00",
-            "17:45",
-            "20:35"
+            "16:45",
+            "20:30"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3641,7 +3454,6 @@
           "rating": "15",
           "duration": "1h 42m",
           "showtimes": [
-            "14:30",
             "18:30"
           ],
           "day": "tuesday",
@@ -3652,7 +3464,7 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:30"
+            "17:15"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3662,8 +3474,7 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "10:30",
-            "19:00"
+            "18:00"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3673,7 +3484,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "11:45"
+            "15:15"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3683,9 +3494,7 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "12:30",
-            "15:40",
-            "20:10"
+            "20:00"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3695,8 +3504,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "11:15",
-            "17:00"
+            "19:00"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3706,28 +3514,7 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:45",
             "19:30"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 28m",
-          "showtimes": [
-            "09:00"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "09:30"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3737,7 +3524,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "09:15",
             "16:00"
           ],
           "day": "tuesday",
@@ -3748,6 +3534,7 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
+            "16:20",
             "21:30"
           ],
           "day": "tuesday",
@@ -3758,18 +3545,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "15:00",
             "21:00"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Family Film Club: Finding Nemo",
-          "rating": "U",
-          "duration": "1h 41m",
-          "showtimes": [
-            "10:00"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3779,74 +3555,68 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "14:55",
             "16:45",
-            "21:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "11:45",
-            "19:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Tony",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "10:30",
-            "15:50"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "17:30"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "10:00",
-            "14:15",
             "20:30"
           ],
           "day": "wednesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
+          "title": "One Night Only",
+          "rating": "15",
+          "duration": "1h 42m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
+          "showtimes": [
+            "17:15"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spa Weekend",
+          "rating": "15",
+          "duration": "1h 33m",
+          "showtimes": [
+            "18:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "15:15"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Spider-Man: Brand New Day",
+          "rating": "12A",
+          "duration": "2h 25m",
+          "showtimes": [
+            "20:00"
+          ],
+          "day": "wednesday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
           "title": "The End Of Oak Street",
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "11:15",
-            "18:30"
+            "19:00"
           ],
           "day": "wednesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3856,28 +3626,7 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:00",
-            "20:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 28m",
-          "showtimes": [
-            "09:00"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "09:45"
+            "19:30"
           ],
           "day": "wednesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3887,8 +3636,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "09:15",
-            "13:15"
+            "16:00"
           ],
           "day": "wednesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3898,7 +3646,7 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "13:45",
+            "16:20",
             "21:30"
           ],
           "day": "wednesday",
@@ -3909,18 +3657,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "12:15",
-            "17:45"
-          ],
-          "day": "wednesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Throwback: The Lord Of The Rings: The Return Of The King (Extended Edition)",
-          "rating": "12A",
-          "duration": "4h 13m",
-          "showtimes": [
-            "19:30"
+            "21:00"
           ],
           "day": "wednesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3930,7 +3667,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "13:15",
             "16:45",
             "20:30"
           ],
@@ -3942,7 +3678,6 @@
           "rating": "15",
           "duration": "1h 42m",
           "showtimes": [
-            "10:15",
             "18:30"
           ],
           "day": "thursday",
@@ -3953,7 +3688,7 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "17:30"
+            "17:15"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3963,8 +3698,7 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "11:40",
-            "19:00"
+            "18:00"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3974,7 +3708,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "10:40"
+            "15:15"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -3984,8 +3718,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "12:20",
-            "15:45",
             "20:00"
           ],
           "day": "thursday",
@@ -3996,8 +3728,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "12:50",
-            "18:00"
+            "19:00"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4007,28 +3738,7 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "13:45",
             "19:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Paw Patrol: The Dino Movie",
-          "rating": "U",
-          "duration": "1h 28m",
-          "showtimes": [
-            "09:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "09:15"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4038,7 +3748,6 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "09:45",
             "16:00"
           ],
           "day": "thursday",
@@ -4049,8 +3758,8 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
-            "14:10",
-            "21:20"
+            "16:20",
+            "21:30"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4060,18 +3769,7 @@
           "rating": "15",
           "duration": "1h 52m",
           "showtimes": [
-            "15:20",
             "21:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Family Film Club: Finding Nemo",
-          "rating": "U",
-          "duration": "1h 41m",
-          "showtimes": [
-            "11:15"
           ],
           "day": "thursday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4080,6 +3778,27 @@
           "title": "The Dog Stars",
           "rating": "15",
           "duration": "1h 59m",
+          "showtimes": [
+            "16:45",
+            "20:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "One Night Only",
+          "rating": "15",
+          "duration": "1h 42m",
+          "showtimes": [
+            "18:30"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Tony",
+          "rating": "15",
+          "duration": "1h 46m",
           "showtimes": [
             "17:15"
           ],
@@ -4091,7 +3810,17 @@
           "rating": "15",
           "duration": "1h 33m",
           "showtimes": [
-            "19:00"
+            "18:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
+        },
+        {
+          "title": "Teenage Sex And Death At Camp Miasma",
+          "rating": "15",
+          "duration": "1h 52m",
+          "showtimes": [
+            "15:15"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4101,8 +3830,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "13:45",
-            "15:45",
             "20:00"
           ],
           "day": "friday",
@@ -4113,7 +3840,7 @@
           "rating": "12A",
           "duration": "1h 40m",
           "showtimes": [
-            "21:00"
+            "19:00"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4123,28 +3850,7 @@
           "rating": "15",
           "duration": "2h 53m",
           "showtimes": [
-            "14:15",
             "19:30"
-          ],
-          "day": "friday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "09:45"
-          ],
-          "day": "friday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Moana",
-          "rating": "PG",
-          "duration": "1h 56m",
-          "showtimes": [
-            "10:30"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4154,7 +3860,7 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
-            "11:15"
+            "16:00"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4164,48 +3870,18 @@
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
+            "16:20",
             "21:30"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "De Gaulle: R\u00e9sistance",
+          "title": "Bitter Christmas",
           "rating": "15",
-          "duration": "2h 40m",
+          "duration": "1h 52m",
           "showtimes": [
-            "17:30"
-          ],
-          "day": "friday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Death Of Robin Hood",
-          "rating": "15",
-          "duration": "2h 2m",
-          "showtimes": [
-            "20:30"
-          ],
-          "day": "friday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Incomer",
-          "rating": "12A",
-          "duration": "1h 42m",
-          "showtimes": [
-            "12:15",
-            "18:00"
-          ],
-          "day": "friday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toddler Club: Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "09:00"
+            "21:00"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4223,28 +3899,7 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "12:20",
             "18:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "De Gaulle: Resistance",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "11:20"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Hanging By A Wire",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "13:20"
           ],
           "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
@@ -4254,48 +3909,7 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "14:45",
             "20:40"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Kiki\u2019S Delivery Service (Subbed)",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "15:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Sarah & Duck: Creative Collaborations",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "11:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Shaun The Sheep Movie",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "11:00"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "14:50"
           ],
           "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
@@ -4306,16 +3920,6 @@
           "duration": "",
           "showtimes": [
             "20:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "The Invite",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "17:00"
           ],
           "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
