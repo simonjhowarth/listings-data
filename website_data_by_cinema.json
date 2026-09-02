@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-09-02T16:37:05.675174",
+  "last_updated": "2026-09-02T18:23:19.423420",
   "location": "Cambridge, UK",
   "cinemas": [
     {
@@ -13,7 +13,6 @@
           "rating": "15",
           "duration": "2h 0m",
           "showtimes": [
-            "17:10",
             "20:15"
           ],
           "format": "Standard",
@@ -58,7 +57,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -82,6 +80,8 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
+            "12:45",
+            "15:15",
             "17:40"
           ],
           "format": "Standard",
@@ -645,7 +645,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -669,6 +668,8 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
+            "12:45",
+            "15:15",
             "17:40"
           ],
           "format": "Standard",
@@ -1232,7 +1233,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -1256,6 +1256,8 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
+            "12:45",
+            "15:15",
             "17:40"
           ],
           "format": "Standard",
@@ -1819,7 +1821,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -1843,6 +1844,8 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
+            "12:45",
+            "15:15",
             "17:40"
           ],
           "format": "Standard",
@@ -2406,7 +2409,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -2430,6 +2432,8 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
+            "12:45",
+            "15:15",
             "17:40"
           ],
           "format": "Standard",
@@ -2993,7 +2997,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -3017,6 +3020,8 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
+            "12:45",
+            "15:15",
             "17:40"
           ],
           "format": "Standard",
@@ -3580,7 +3585,6 @@
           "rating": "15",
           "duration": "1h 41m",
           "showtimes": [
-            "17:15",
             "19:40"
           ],
           "format": "Standard",
@@ -3604,6 +3608,8 @@
           "rating": "PG",
           "duration": "1h 43m",
           "showtimes": [
+            "12:45",
+            "15:15",
             "17:40"
           ],
           "format": "Standard",
@@ -4138,17 +4144,6 @@
       "url": "https://cambridge.thelight.co.uk/imax",
       "films": [
         {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "2h 0m",
-          "showtimes": [
-            "17.10"
-          ],
-          "format": "Standard",
-          "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
           "title": "The Odyssey",
           "rating": "15",
           "duration": "2h 52m",
@@ -4157,17 +4152,6 @@
           ],
           "format": "Standard",
           "day": "today",
-          "booking_url": "https://cambridge.thelight.co.uk/imax"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "2h 0m",
-          "showtimes": [
-            "17.10"
-          ],
-          "format": "Standard",
-          "day": "thursday",
           "booking_url": "https://cambridge.thelight.co.uk/imax"
         },
         {
@@ -4178,6 +4162,17 @@
             "10.00",
             "13.30",
             "19.50"
+          ],
+          "format": "Standard",
+          "day": "thursday",
+          "booking_url": "https://cambridge.thelight.co.uk/imax"
+        },
+        {
+          "title": "The Dog Stars",
+          "rating": "15",
+          "duration": "2h 0m",
+          "showtimes": [
+            "17.10"
           ],
           "format": "Standard",
           "day": "thursday",
@@ -4388,7 +4383,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:15",
             "20:30"
           ],
           "day": "today",
@@ -4399,7 +4393,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "14:55",
             "16:45",
             "21:00"
           ],
@@ -4437,31 +4430,11 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:50"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
             "21:30"
-          ],
-          "day": "today",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
           ],
           "day": "today",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4493,119 +4466,6 @@
           "showtimes": [
             "20:00"
           ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spider-Man: Brand New Day",
-          "rating": "12A",
-          "duration": "2h 25m",
-          "showtimes": [
-            "14:15",
-            "20:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Dog Stars",
-          "rating": "15",
-          "duration": "1h 59m",
-          "showtimes": [
-            "14:55",
-            "16:45",
-            "21:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The End Of Oak Street",
-          "rating": "12A",
-          "duration": "1h 40m",
-          "showtimes": [
-            "18:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "One Night Only",
-          "rating": "15",
-          "duration": "1h 42m",
-          "showtimes": [
-            "19:00"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Spa Weekend",
-          "rating": "15",
-          "duration": "1h 33m",
-          "showtimes": [
-            "17:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:50"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Insidious: Out Of The Further",
-          "rating": "15",
-          "duration": "1h 46m",
-          "showtimes": [
-            "21:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Bitter Christmas",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "17:45"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Throwback: The Lord Of The Rings: The Return Of The King (Extended Edition)",
-          "rating": "12A",
-          "duration": "4h 13m",
-          "showtimes": [
-            "19:30"
-          ],
-          "day": "thursday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "The Odyssey",
-          "rating": "15",
-          "duration": "2h 53m",
-          "showtimes": [
-            "20:00"
-          ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
@@ -4614,7 +4474,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:15",
             "20:30"
           ],
           "day": "friday",
@@ -4625,7 +4484,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "14:55",
             "16:45",
             "21:00"
           ],
@@ -4663,31 +4521,11 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:50"
-          ],
-          "day": "friday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
             "21:30"
-          ],
-          "day": "friday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
           ],
           "day": "friday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4727,7 +4565,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:15",
             "20:30"
           ],
           "day": "saturday",
@@ -4738,7 +4575,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "14:55",
             "16:45",
             "21:00"
           ],
@@ -4776,31 +4612,11 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:50"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
             "21:30"
-          ],
-          "day": "saturday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
           ],
           "day": "saturday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4840,7 +4656,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:15",
             "20:30"
           ],
           "day": "sunday",
@@ -4851,7 +4666,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "14:55",
             "16:45",
             "21:00"
           ],
@@ -4889,31 +4703,11 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:50"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
             "21:30"
-          ],
-          "day": "sunday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
           ],
           "day": "sunday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -4953,7 +4747,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:15",
             "20:30"
           ],
           "day": "monday",
@@ -4964,7 +4757,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "14:55",
             "16:45",
             "21:00"
           ],
@@ -5002,31 +4794,11 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:50"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
             "21:30"
-          ],
-          "day": "monday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
           ],
           "day": "monday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -5066,7 +4838,6 @@
           "rating": "12A",
           "duration": "2h 25m",
           "showtimes": [
-            "14:15",
             "20:30"
           ],
           "day": "tuesday",
@@ -5077,7 +4848,6 @@
           "rating": "15",
           "duration": "1h 59m",
           "showtimes": [
-            "14:55",
             "16:45",
             "21:00"
           ],
@@ -5115,31 +4885,11 @@
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
         },
         {
-          "title": "Toy Story 5",
-          "rating": "PG",
-          "duration": "1h 42m",
-          "showtimes": [
-            "15:50"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
           "title": "Insidious: Out Of The Further",
           "rating": "15",
           "duration": "1h 46m",
           "showtimes": [
             "21:30"
-          ],
-          "day": "tuesday",
-          "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
-        },
-        {
-          "title": "Teenage Sex And Death At Camp Miasma",
-          "rating": "15",
-          "duration": "1h 52m",
-          "showtimes": [
-            "16:15"
           ],
           "day": "tuesday",
           "booking_url": "https://www.everymancinema.com/venues-list/g02am-everyman-cambridge/"
@@ -5203,21 +4953,11 @@
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
         },
         {
-          "title": "Teenage Sex And Death At Camp Miasma",
+          "title": "Next",
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "18:15"
-          ],
-          "day": "today",
-          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
-        },
-        {
-          "title": "The Death Of Robin Hood",
-          "rating": "U",
-          "duration": "",
-          "showtimes": [
-            "17:50"
+            "19:30"
           ],
           "day": "today",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
@@ -5370,7 +5110,7 @@
           "rating": "U",
           "duration": "",
           "showtimes": [
-            "15:15",
+            "15:20",
             "20:15"
           ],
           "day": "friday",
@@ -5383,6 +5123,16 @@
           "showtimes": [
             "12:15",
             "18:00"
+          ],
+          "day": "friday",
+          "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
+        },
+        {
+          "title": "The Odyssey",
+          "rating": "U",
+          "duration": "",
+          "showtimes": [
+            "12:15"
           ],
           "day": "friday",
           "booking_url": "https://www.picturehouses.com/cinema/arts-picturehouse-cambridge"
