@@ -136,6 +136,18 @@
         
         .future-film { border-left: 3px solid #f59e0b; }
         .future-badge { background: #fef3c7; color: #92400e; }
+        
+        .past-screening { 
+            opacity: 0.4; 
+            text-decoration: line-through;
+            filter: grayscale(100%);
+        }
+        
+        .past-time-badge {
+            background: #e2e8f0;
+            color: #718096;
+            text-decoration: line-through;
+        }
     </style>
 </head>
 <body>
@@ -232,6 +244,48 @@
         ];
     }
 
+    function isScreeningPast(timeStr, dayKey) {
+        // Get current time
+        const now = new Date();
+        
+        // Parse the screening time
+        const [hours, minutes] = timeStr.replace('.', ':').split(':').map(Number);
+        
+        // Determine the screening date based on the selected day
+        let screeningDate;
+        const today = new Date();
+        today.setHours(0, 0, 0, 0);
+        
+        if (dayKey === 'today') {
+            screeningDate = new Date(today);
+        } else if (dayKey === 'tomorrow') {
+            screeningDate = new Date(today.getTime() + 24 * 60 * 60 * 1000);
+        } else if (dayKey === 'future') {
+            // For future films, assume they're in the future (don't grey out)
+            return false;
+        } else {
+            // For specific days, calculate the date
+            const dayMap = {
+                'monday': 1, 'tuesday': 2, 'wednesday': 3, 'thursday': 4,
+                'friday': 5, 'saturday': 6, 'sunday': 0
+            };
+            const targetDay = dayMap[dayKey];
+            const currentDay = today.getDay();
+            
+            // Calculate days until target day
+            let daysUntil = (targetDay - currentDay + 7) % 7;
+            if (daysUntil === 0) daysUntil = 7; // If today, make it next week
+            
+            screeningDate = new Date(today.getTime() + daysUntil * 24 * 60 * 60 * 1000);
+        }
+        
+        // Set the screening time
+        screeningDate.setHours(hours, minutes, 0, 0);
+        
+        // Check if screening time has passed
+        return now > screeningDate;
+    }
+
     function renderDayBar() {
         const bar = document.getElementById('dayBar');
         if (!bar) return;
@@ -310,11 +364,18 @@
             }
         });
 
-        // Sort by time (but future films go to the end)
+        // Sort by time (future films go to end, past screenings go to end)
         allFilms.sort((a, b) => {
+            const aIsPast = !a.isFuture && isScreeningPast(a.time, selectedKey);
+            const bIsPast = !b.isFuture && isScreeningPast(b.time, selectedKey);
+            
             if (a.isFuture && !b.isFuture) return 1;
             if (!a.isFuture && b.isFuture) return -1;
             if (a.isFuture && b.isFuture) return 0; // Keep future films in original order
+            
+            if (aIsPast && !bIsPast) return 1; // Past screenings go to end
+            if (!aIsPast && bIsPast) return -1;
+            if (aIsPast && bIsPast) return 0; // Keep past screenings in original order
             
             const aTime = a.time.replace('.', ':');
             const bTime = b.time.replace('.', ':');
@@ -353,19 +414,24 @@
     }
 
     function renderTimeView(container, allFilms) {
-        const filmsHtml = allFilms.map(film => `
-            <div class="film-card ${film.isFuture ? 'future-film' : ''}">
+        const filmsHtml = allFilms.map(film => {
+            const isPast = !film.isFuture && isScreeningPast(film.time, selectedKey);
+            const timeClass = film.isFuture ? 'future-badge' : (isPast ? 'past-time-badge' : '');
+            const filmClass = film.isFuture ? 'future-film' : (isPast ? 'past-screening' : '');
+            
+            return `
+            <div class="film-card ${filmClass}">
                 <div class="film-header">
                     <div class="film-title">${film.title}</div>
                     <div class="film-meta">${film.rating} • ${film.duration}</div>
                 </div>
                 <div class="cinema-tag">${film.cinema}</div>
                 <div class="showtime-info">
-                    <span class="time-badge ${film.isFuture ? 'future-badge' : ''}">${film.time}</span>
-                    ${!film.isFuture ? `<a href="${film.booking_url}" target="_blank" style="color: var(--primary); text-decoration: none;">Book →</a>` : '<span style="color: var(--light-text); font-size: 0.8rem;">Coming Soon</span>'}
+                    <span class="time-badge ${timeClass}">${film.time}</span>
+                    ${!film.isFuture && !isPast ? `<a href="${film.booking_url}" target="_blank" style="color: var(--primary); text-decoration: none;">Book →</a>` : (film.isFuture ? '<span style="color: var(--light-text); font-size: 0.8rem;">Coming Soon</span>' : '<span style="color: var(--light-text); font-size: 0.8rem;">Passed</span>')}
                 </div>
             </div>
-        `).join('');
+        `}).join('');
 
         container.innerHTML = `
             <div class="time-slot-section">
@@ -385,18 +451,23 @@
         });
 
         const cinemaHtml = Object.entries(filmsByCinema).map(([cinemaName, films]) => {
-            const filmsList = films.map(film => `
-                <div class="film-card ${film.isFuture ? 'future-film' : ''}">
+            const filmsList = films.map(film => {
+                const isPast = !film.isFuture && isScreeningPast(film.time, selectedKey);
+                const timeClass = film.isFuture ? 'future-badge' : (isPast ? 'past-time-badge' : '');
+                const filmClass = film.isFuture ? 'future-film' : (isPast ? 'past-screening' : '');
+                
+                return `
+                <div class="film-card ${filmClass}">
                     <div class="film-header">
                         <div class="film-title">${film.title}</div>
                         <div class="film-meta">${film.rating} • ${film.duration}</div>
                     </div>
                     <div class="showtime-info">
-                        <span class="time-badge ${film.isFuture ? 'future-badge' : ''}">${film.time}</span>
-                        ${!film.isFuture ? `<a href="${film.booking_url}" target="_blank" style="color: var(--primary); text-decoration: none;">Book →</a>` : '<span style="color: var(--light-text); font-size: 0.8rem;">Coming Soon</span>'}
+                        <span class="time-badge ${timeClass}">${film.time}</span>
+                        ${!film.isFuture && !isPast ? `<a href="${film.booking_url}" target="_blank" style="color: var(--primary); text-decoration: none;">Book →</a>` : (film.isFuture ? '<span style="color: var(--light-text); font-size: 0.8rem;">Coming Soon</span>' : '<span style="color: var(--light-text); font-size: 0.8rem;">Passed</span>')}
                     </div>
                 </div>
-            `).join('');
+            `}).join('');
 
             return `
                 <div class="time-slot-section">
